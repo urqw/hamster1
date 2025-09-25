@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>529E98B0F00755B12833C13329E1C8EB</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 1: Побег</title>
+			<author>Triangle</author>
+			<language>ru</language>
+			<firstpublished>2001-04-03</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - мирно спящий сирийский хомяк по имени Семён. Вас, пока Вы спали, коварно заточили в клетку. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>1</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster1</url>
+			<authoremail>triangle@zmail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
